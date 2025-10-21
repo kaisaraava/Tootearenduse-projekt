@@ -119,9 +119,9 @@ Parandusi oli mitmeid, aga peamised olid
 **Meie valmimas toote pakendi visiioon**
 <img width="866" height="686" alt="protobox_mockup_01 1" src="https://github.com/user-attachments/assets/30c4f6e9-b1ac-402d-b37c-d0e242177448" />
 
-**Meie valmimas toote protoüüp paberina**
-UI elemendid: <img width="523" height="651" alt="Screenshot 2025-10-21 at 13 17 01" src="https://github.com/user-attachments/assets/2b332253-4ac8-481c-94a2-d2bd21fb3773" />
-![7a74dd3efd328b249917ed68f4b1e700](https://github.com/user-attachments/assets/aa178e7c-c9d3-4964-8ba7-7e7bd7de7d90)
+**Meie valmimas toote protoüüp paberil**
+UI elemendid:
+<img width="523" height="651" alt="Screenshot 2025-10-21 at 13 17 01" src="https://github.com/user-attachments/assets/2b332253-4ac8-481c-94a2-d2bd21fb3773" />
 
 **Kokkupandud protoüüp**
 <img width="297" height="564" alt="Screenshot 2025-10-21 at 13 18 03" src="https://github.com/user-attachments/assets/17a66a9c-b43b-406d-ae4e-40608a933974" />
@@ -131,10 +131,9 @@ UI elemendid: <img width="523" height="651" alt="Screenshot 2025-10-21 at 13 17 
 
 ### 6. Tulude ja kulude analüüs
 
-- **Kulude eelarve:** materjalid, litsentsid, majutus, tootmine
-- **Toote omahind ja kasumlikkus:** hinnakalkulatsioon ja hinnanguline kasum  
-  _Soovitus:_ kasuta tabelit koos summade ja kategooriatega.
+- **Kulude eelarve ning toote omahind / kasumlikkus:**
 
+  Kulude arve ning omahind on veel selgumas vastavalt hinnapakumisele
 ---
 
 ### 7. Tehniline dokumentatsioon ja kasutusjuhend
