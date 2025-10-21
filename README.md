@@ -74,13 +74,9 @@ Füüsiline prototüüpimiskomplekt (valitud)
 
 ### 4. Riskianalüüs ja takistused
 
-- **Peamised riskid:** millised probleemid võivad tekkida (antud töös keskendume peamiselt tootmisele ja tehnoloogia valikule)
-- **Riskide maandamine:** kuidas planeerisite riskide maandamise/vähendamise
-- **Reaalsed juhtumid:** kas mõni risk realiseerus ja kuidas see lahendati
+- **Riskianalüüsi, riskide maandamise ja hüpoteetiliste juhtumite fail**
+- https://docs.google.com/spreadsheets/d/1AYWQ7ekXVJVSqJ_LMR8xSxYuNsnnTn9Aw920zHm4v5g/edit?usp=sharing
 
-  _Soovitus:_ koostage ja lisage riskitabel (Risk, Tõenäosus, Mõju, Lahendus).
-
----
 
 ### 5. Prototüüpimine, testimine ja valmislahendus
 
