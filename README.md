@@ -140,7 +140,7 @@ Parandusi oli mitmeid, aga peamised olid
 
 ### 7. Tehniline dokumentatsioon ja kasutusjuhend
 
-#### Füüsiline toode:
+**Füüsiline toode**
 
 **Toote kasutusjuhend, ning kasulikud skeemid, õpetused kasutajatele**: https://www.figma.com/design/fD5GYlcPwQQgU6fYhbRrRC/VOCO-tootearendus?node-id=938-69&t=OticJUhS2DUcMCcH-1
 **Toote mõõdud**: 305x215x70mm
