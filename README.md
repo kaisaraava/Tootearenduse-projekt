@@ -115,14 +115,19 @@ Parandusi oli mitmeid, aga peamised olid
      
 
 **Lõpplahenduse ülevaade:** 
-**Meie valmimas toote pakendi visiioon**
+**Meie planeeritav toote pakend**
+
 <img width="866" height="686" alt="protobox_mockup_01 1" src="https://github.com/user-attachments/assets/30c4f6e9-b1ac-402d-b37c-d0e242177448" />
 
 **Meie valmimas toote protoüüp paberil**
-UI elemendid:
+**UI elemendid**
+
+
 <img width="523" height="651" alt="Screenshot 2025-10-21 at 13 17 01" src="https://github.com/user-attachments/assets/2b332253-4ac8-481c-94a2-d2bd21fb3773" />
 
 **Kokkupandud protoüüp**
+
+
 <img width="297" height="564" alt="Screenshot 2025-10-21 at 13 18 03" src="https://github.com/user-attachments/assets/17a66a9c-b43b-406d-ae4e-40608a933974" />
 
 
