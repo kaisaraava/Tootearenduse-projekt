@@ -68,7 +68,7 @@ Füüsiline prototüüpimiskomplekt (valitud)
   See idee osutuks parimaks, kuna tundsime, et antud toode annaks koolile päirselt väärtust ja abistaks ka teisi disainereid / õpilasi.
 
 - **Väärtuspakkumine (nt kasutasite Value Proposition Canvas)**
-  ![Väärtuspakkumise skeem](väärtuspakumine.png)
+<img width="3962" height="2097" alt="väärtuspakkumine" src="https://github.com/user-attachments/assets/4e2f86aa-e771-4b2a-91cd-9acff2ec555a" />
 
 ---
 
