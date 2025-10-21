@@ -84,7 +84,6 @@ Kirjelda, kuidas jõudsite oma lõpptooteni:
 - **Füüsilised prototüübid:**
   Toote materjal on veel selgumas.
   Toote pakendi mõõtmed on 305x215x70mm ja materjal on lainepappkarp. Grid on umkaudu: 31.26x22.12. UI elemendid on varieeruvad vastavalt fuktsionaalsusele.
-  <img width="866" height="686" alt="protobox_mockup_01 1" src="https://github.com/user-attachments/assets/14e07ca4-ecc3-4559-b3f4-8db6be64b604" />
 
   
 **Testimine:**
