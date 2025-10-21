@@ -1,4 +1,4 @@
-# tootearendusprojekti dokumentatsioon
+# Tootearendusprojekti dokumentatsioon
 
 ---
 
