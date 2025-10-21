@@ -87,27 +87,27 @@ Kirjelda, kuidas jõudsite oma lõpptooteni:
   <img width="866" height="686" alt="protobox_mockup_01 1" src="https://github.com/user-attachments/assets/14e07ca4-ecc3-4559-b3f4-8db6be64b604" />
 
   
-- **Testimine:**
+**Testimine:**
 
 - Testimisplaan
   Viisime läbi 3 uuringut / testimist
 1. Uurisime millised on juba teistetehtud olemasolevad protoüübid, nii digitaalselt kui ka visandslikult joonistusena. Vastavalt tulemusele arvestasime mis ja kuidas elemente ja gridi luua.
 2. Küsitlus potentsiaalsete kasutajate peal. Viisime läbi küsitluse potentsiaalsete klientidele peal, et teada saada:
        * Praeguse olukorra – kuidas sihtrühm praegu lo-fi prototüüpe loob, kui tihti ja milliste tööriistadega.
-  * Valupunktid ja vajadused – millised probleemid neil esinevad
-*  Potentsiaalne kasu – kas ja kui suurt kasu meie loodav toode neile annaks.
+   * Valupunktid ja vajadused – millised probleemid neil esinevad
+   *   Potentsiaalne kasu – kas ja kui suurt kasu meie loodav toode neile annaks.
 3. Digitaalne protoüübi testimine. Toote proovimine, läbi stsenaariumite läbimängimise digitaalselt.
 4. Füüsiline toote protoüüpimis läbimäng kasutajate peal.
  
- - Tulemused
+Tulemused
    1. Testidest saime teada mida toote loomisel peame arvestama, näiteks, mis elemente on vaja.
    2. Saime teada mida võiksime kasutajajuhendis täpsustada või kasutajaid kasuliku toote kasutamise võimalustega teavitada
    3. Saime teada kuidas parendada kas UI elemente või gride, näiteks suurusi muutsime või tegime elemente juurde.
    4. Saime turunduslikult kasuliku infot toote tutvustuslehele.
    5. Saime pildi materjali toote ning tootekasutamise kohta.
 
-- Tehtud parandused
-  1. Parandusi oli mitmeid, aga peamised olid
+Tehtud parandused
+Parandusi oli mitmeid, aga peamised olid
      * suuruste parendamine
      * elementide vähendamine
      * kindlate elementide juurde tegemine
@@ -115,7 +115,7 @@ Kirjelda, kuidas jõudsite oma lõpptooteni:
      * elementide funktsionaalsuste täpsustamised
      
 
-- **Lõpplahenduse ülevaade:** kuidas valmis teie kavandatud toode
+**Lõpplahenduse ülevaade:** kuidas valmis teie kavandatud toode
 Meie valmimas toote pakendi visiioon: <img width="866" height="686" alt="protobox_mockup_01 1" src="https://github.com/user-attachments/assets/30c4f6e9-b1ac-402d-b37c-d0e242177448" />
 
 Meie valmimas toote protoüüp paberina: 
