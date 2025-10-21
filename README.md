@@ -135,7 +135,7 @@ Parandusi oli mitmeid, aga peamised olid
 
 ### 6. Tulude ja kulude analüüs
 
-- **Kulude eelarve ning toote omahind / kasumlikkus:**
+**Kulude eelarve ning toote omahind / kasumlikkus:**
 
   Kulude arve ning omahind on veel selgumas vastavalt hinnapakumisele
 ---
@@ -144,39 +144,31 @@ Parandusi oli mitmeid, aga peamised olid
 
 #### Füüsiline toode:
 
-- **Kasutusjuhend:** kuidas toodet kasutada
-- **Tehnilised omadused ja mõõdud**
-- **Joonised või skeemid (vajadusel)**
+**Toote kasutusjuhend, ning kasulikud skeemid, õpetused kasutajatele**: https://www.figma.com/design/fD5GYlcPwQQgU6fYhbRrRC/VOCO-tootearendus?node-id=938-69&t=OticJUhS2DUcMCcH-1
+**Toote mõõdud**: 305x215x70mm
+**Toote omadus / peamine vajadus**: Toote kasutamise peamine funktsionaalne nõue on tasanepinna olemasolu, kuhu toodet on võimalik maha panna.
 
 ---
 
 ### 8. Projekti kokkuvõte ja refleksioon
 
-- **Lõpptulemuse hindamine:** kas saavutasite eesmärgid?
-- **Õppetunnid:** mis läks hästi, mida teeksite teisiti?
-- **Järgmised sammud:** kas on arendusvõimalusi või uusi ideid?
+Saavutame veel eesmärki, teha prototüüpimise käegakatsutavaks ja lihtsaks, pakkudes kõiki veebilehe põhielemente ühes karbis. Oleme teel sinna ning tehtud on palju tööd. Nüüd peame meie tehtid tööd kas kedagi palkama või ise käsitsi valmistada.
 
----
+**Mis läks hästi**
 
-## Tulemuse esitamine
+- Meeskonnatöö ja ideede genereerimine – ajurünnaku tulemusel jõudsime tugevate ja teostatavate ideedeni.
+- Kasutajauuringute läbiviimine andis väärtuslikku sisendit ning kinnitas toote vajalikkust.
+- Prototüüpimise protsess ja testimine olid süstemaatilised ning aitasid tuvastada olulisi parendusi (nt elementide suurused ja funktsionaalsus).
 
-koosta loodud materjal .md failina
-seejärel teisenda loodud markdown tekst ümber HTML failiks (selle vm sarnase vahendiga) ja analüüsi, kas saad kasutada genereeritud dokumentatsiooni versiooni WordPressis.
-juhul kui WP-s ei õnnestu/ei soovi loodud dokumentatsiooni esitada, siis esita töö lisaks ka .html failina
-**Pane tähele**, et osad punktid lõpudokumentatsioonist on antud ülesande juures välja jäetud (peamiselt ülesanded WPga)
 
-Testi, kas su dokumenti ja juhendit saab kasutada inimene, kes projektiga pole seotud.
+**Mida teeksime teisiti**
 
----
+- Planeeriksime rohkem aega materjalide katsetamiseks ja tootmise poole optimeerimiseks.
+- Viiksime testimisi läbi suurema kasutajagrupi peal, et saada laiapõhjalisemat tagasisidet.
+- Jälgiksime projektis eelarvet ja kulusid täpsemalt juba varasemas faasis.
+  
+**Anrendusvõimalused**
+- Mobiili protoüüpimise võimalus
+- Veebipoe prototüübi loomise võimalus
+- Analüüitliste, palju skeemidega protoüüpimise loomise võimalus 
 
-## Lõpptulemus
-
-Valminud peab olema:
-
-1. **Tootearendusprojekti dokumentatsioon** (Markdown ja/või HTML fail)
-2. Boonus, kui õnnestub siis on genereeritud HTML **WordPressi veebilehel**, mis:
-   - tutvustab toodet,
-   - sisaldab dokumentatsiooni,
-   - on ligipääsetav.
-
----
