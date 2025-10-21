@@ -2,7 +2,6 @@
 
 ---
 
-## Ülesande sisu
 
 ### 1. Projekti üldandmed ja ülevaade
 
@@ -135,9 +134,8 @@ Parandusi oli mitmeid, aga peamised olid
 
 ### 6. Tulude ja kulude analüüs
 
-**Kulude eelarve ning toote omahind / kasumlikkus:**
 
-  Kulude arve ning omahind on veel selgumas vastavalt hinnapakumisele
+  - Kulude arve ning omahind on veel selgumas vastavalt hinnapakumisele
 ---
 
 ### 7. Tehniline dokumentatsioon ja kasutusjuhend
